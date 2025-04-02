@@ -91,3 +91,6 @@
 - 클라우드: AWS, Google Cloud Platform, Azure
 
 - 기타: Git, Tableau, Power BI
+
+## 추천인
+광운대학교 정보융합학부 박규동 교수
